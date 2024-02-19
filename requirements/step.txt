@@ -1,0 +1,3 @@
+https://laravel.com/docs/10.x/installation#next-steps
+Bootstrap -  https://medium.com/@online-web-tutor/how-to-install-and-work-with-bootstrap-5-in-laravel-10-422e7a6d76d8
+add extension in php
